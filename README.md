@@ -71,8 +71,6 @@ Final Application Package
 
 ## System Design Principles
 
-The workflow was designed around several operating principles:
-
 ### 1. Standardization
 
 Each candidate follows a defined document sequence and production workflow.
@@ -156,7 +154,7 @@ The objective is to identify where AI can improve an existing business process a
 
 ## Technology
 
-Current system:
+### Current System
 
 - Large Language Model / AI workflow
 - Structured information
