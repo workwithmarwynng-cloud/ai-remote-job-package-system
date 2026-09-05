@@ -199,3 +199,16 @@ Quality Control
 Human Review
        ↓
 Final Package
+
+
+## Case Study
+
+The complete case study documents the system from problem identification through implementation and results.
+
+- [Business Problem](case-study/business-problem.md)
+- [Discovery](case-study/discovery.md)
+- [Solution](case-study/solution.md)
+- [Implementation](case-study/implementation.md)
+- [Results](case-study/results.md)
+
+The case study demonstrates the reasoning, workflow design, implementation approach, and expected operational impact behind the system.
